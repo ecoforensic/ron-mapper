@@ -1,0 +1,67 @@
+{
+  "profile_name": "Precautionary",
+  "scalars": {
+    "IUCN_CR": 1.0,
+    "IUCN_EN": 0.9,
+    "IUCN_VU": 0.75,
+    "IUCN_NT": 0.35,
+    "IUCN_LC": 0.1,
+    "IUCN_DD": 0.55,
+    "IUCN_NE": 0.55,
+    "EDGE": 1.0,
+    "Keystone": 1.0,
+    "Biocultural": 1.0,
+    "KBA_A1": 1.0,
+    "KBA_B1": 0.7,
+    "KBA_B2": 0.7,
+    "KBA_D1": 0.7,
+    "KBA_D2": 0.7,
+    "KBA_D3": 0.7,
+    "KBA_E": 0.7,
+    "Endemism_National": 0.35,
+    "Endemism_Regional": 0.6
+  },
+  "weights": {
+    "Article_71": {
+      "EDGE": 1.0,
+      "Keystone": 1.0,
+      "KBA_B1": 1.0,
+      "KBA_B2": 1.0,
+      "KBA_D1": 1.0,
+      "KBA_D2": 1.0,
+      "KBA_D3": 1.0,
+      "KBA_E": 1.0,
+      "Endemism_National": 1.0,
+      "Endemism_Regional": 1.0
+    },
+    "Article_72": {
+      "IUCN": 1.0,
+      "EDGE": 1.0,
+      "KBA_A1": 1.0,
+      "KBA_B1": 1.0,
+      "KBA_B2": 1.0,
+      "KBA_D1": 1.0,
+      "KBA_D2": 1.0,
+      "KBA_D3": 1.0,
+      "KBA_E": 1.0,
+      "Endemism_National": 1.0,
+      "Endemism_Regional": 1.0
+    },
+    "Article_73": {
+      "IUCN": 1.0,
+      "EDGE": 1.0,
+      "KBA_A1": 1.0,
+      "KBA_D1": 0.5,
+      "KBA_D2": 0.5,
+      "KBA_D3": 0.5,
+      "KBA_E": 0.5,
+      "Endemism_National": 0.25,
+      "Endemism_Regional": 0.0
+    },
+    "Article_74": {
+      "Biocultural": 1.0
+    }
+  },
+  "threshold": 0.6,
+  "combiner": "union"
+}

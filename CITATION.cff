@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use RoN-Mapper in your research, please cite it as below."
+title: "RoN-Mapper"
+version: "v1.0"
+authors:
+  - family-names: "Peck"
+    given-names: "Mika"
+    affiliation: "Ecoforensic CIC"
+date-released: "2025-09-15"
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/<your-username>/ron-mapper"
+doi: "10.5281/zenodo.TBD"
