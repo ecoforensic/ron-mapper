@@ -92,7 +92,7 @@ If you use RoN-Mapper in your research, please cite:
 ```
 Peck, M. (2025). RoN-Mapper (v1.0). Ecoforensic CIC.
 Available at: https://github.com/<your-username>/ron-mapper
-DOI: 10.5281/zenodo.TBD
+DOI: 10.5281/zenodo.17127173
 ```
 
 The `CITATION.cff` file in this repository provides citation metadata for GitHub and reference managers.
