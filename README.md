@@ -80,7 +80,7 @@ This repository is licensed under the **Creative Commons Attribution–NonCommer
 - ✅ You may copy, share, and adapt the code with proper attribution.  
 - 🚫 Commercial use (including resale or integration into proprietary products) is prohibited without explicit permission.  
 
-For commercial licensing enquiries, please contact **Kinseed Limited**.  
+For commercial licensing enquiries, please contact Ecoforensic CIC www.ecoforensic.org.  
 Full licence text: [LICENSE](LICENSE).
 
 ---
