@@ -91,7 +91,7 @@ If you use RoN-Mapper in your research, please cite:
 
 ```
 Peck, M. (2025). RoN-Mapper (v1.0). Ecoforensic CIC.
-Available at: https://github.com/<your-username>/ron-mapper
+Available at: https://github.com/ecoforensic/ron-mapper
 DOI: 10.5281/zenodo.17127173
 ```
 
